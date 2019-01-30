@@ -1,7 +1,7 @@
 # Identify
 Identify is a face detection and recognition program written in python. Identify was designed to use in a college to help identifies student and provides student's basic information.
 
-## Requirment
+## Requirement
 - openCV
 - os
 - pickle
